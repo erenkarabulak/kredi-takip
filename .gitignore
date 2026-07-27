@@ -1,0 +1,5 @@
+# Bu dosyalar düz metin finansal veri içerir — asla commit edilmemeli.
+# (docs/index.html ŞİFRELİ sürüm ve kasıtlı olarak dahil ediliyor.)
+/index.html
+/kredi-yedek.json
+*.pdf
