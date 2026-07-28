@@ -3,3 +3,7 @@
 /index.html
 /kredi-yedek.json
 *.pdf
+*.zip
+
+# Üretim betikleri: veri kaynağı, banka bilgileri ve kapama teyitleri içeriyor.
+/araclar/
